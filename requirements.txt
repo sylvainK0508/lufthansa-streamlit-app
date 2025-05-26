@@ -1,0 +1,6 @@
+streamlit
+pandas
+aiohttp
+requests
+streamlit-autorefresh
+pydeck
